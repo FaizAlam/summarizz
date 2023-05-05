@@ -7,8 +7,8 @@ const Hero = () => {
         <nav className="flex justify-between items-center w-full mb-10 pt-3">
             <img src={logo} alt="logo" className='w-28 object-contain'/>
 
-            <button type='button' onClick={()=> window.open('https://linkedin.com/in/faiza53')} className='black_btn'>
-              Button
+            <button type='button' onClick={()=> window.open('https://github.com/FaizAlam/summarizz')} className='black_btn'>
+              Project
             </button>
         </nav>
 
