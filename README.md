@@ -1,7 +1,7 @@
 ## Summarizz
 Summarizz is a web application that simplifies reading and summarizes blog posts, news articles, and other types of content. It converts lengthy articles into clear and concise summaries, making it easier for readers to consume information quickly and efficiently.
 
-![](https://user-images.githubusercontent.com/21370009/236547245-cff5a823-c7f9-4b7a-8a9b-bea1bf3f80db.png)
+![](https://github.com/FaizAlam/summarizz/assets/21370009/c849c8e3-cfa8-44bd-8ea1-693aa3acbf64)
 
 
 ### Usage
